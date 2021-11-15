@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A2368AB2742B55B00F1F7A0 /* EnterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A2368AA2742B55B00F1F7A0 /* EnterViewController.swift */; };
 		8A3AC61F273C296600112B76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3AC61E273C296600112B76 /* AppDelegate.swift */; };
 		8A3AC621273C296600112B76 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3AC620273C296600112B76 /* SceneDelegate.swift */; };
 		8A3AC623273C296600112B76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3AC622273C296600112B76 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A2368AA2742B55B00F1F7A0 /* EnterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterViewController.swift; sourceTree = "<group>"; };
 		8A3AC61B273C296600112B76 /* GithubApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GithubApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A3AC61E273C296600112B76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A3AC620273C296600112B76 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				8A3AC620273C296600112B76 /* SceneDelegate.swift */,
 				8A3AC622273C296600112B76 /* ViewController.swift */,
 				8A3AC624273C296600112B76 /* Main.storyboard */,
+				8A2368AA2742B55B00F1F7A0 /* EnterViewController.swift */,
 				8A3AC627273C296700112B76 /* Assets.xcassets */,
 				8A3AC629273C296700112B76 /* LaunchScreen.storyboard */,
 				8A3AC62C273C296700112B76 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A3AC623273C296600112B76 /* ViewController.swift in Sources */,
+				8A2368AB2742B55B00F1F7A0 /* EnterViewController.swift in Sources */,
 				8A3AC61F273C296600112B76 /* AppDelegate.swift in Sources */,
 				8A3AC621273C296600112B76 /* SceneDelegate.swift in Sources */,
 			);
